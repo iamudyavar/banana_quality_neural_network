@@ -7,7 +7,7 @@
 ## Steps to run
 1. Navigate to the following Google Colab project, go to "Runtime", and "Run All". Wait for the run to finish to view the train and test error.
 https://colab.research.google.com/drive/17gtdpw8Qczqz_EJEUFfQMUFcSEPG6Tdk?usp=sharing
-2. To run locally, download "banana_quality_neural_network.ipynb" along with "banana_quality.csv" and place them in the same directory. Install the necessary packages (pandas, numpy, sklearn) and run the code. The hyperparameters can be tuned in the line initializing the `NeuralNetwork` class (at the bottom of "banana_quality_neural_network.ipynb").
+2. Alternatively, download "banana_quality_neural_network.ipynb" to run locally. Install the necessary packages (pandas, numpy, sklearn) and run the code. The hyperparameters can be tuned in the line initializing the `NeuralNetwork` class (at the bottom of "banana_quality_neural_network.ipynb").
 
 ## Report
 
