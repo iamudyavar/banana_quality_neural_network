@@ -1,4 +1,4 @@
-# Identifying the quality of a banana with a neural network
+# Classifying the quality of a banana with a neural network
 
 ## Dataset
 - Link to dataset: https://www.kaggle.com/datasets/l3llff/banana
